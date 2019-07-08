@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+It's a interduce
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Don't know what it dose
 
 ## Getting started
 
